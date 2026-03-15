@@ -1,0 +1,5 @@
+{
+  "name": "ScanTrack",
+  "description": "A mobile-friendly barcode scanner and product inventory tracker using IndexedDB.",
+  "requestFramePermissions": ["camera"]
+}
